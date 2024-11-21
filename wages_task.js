@@ -68,3 +68,6 @@ function calculateWages(wagesPerHour) {
     console.log(`Total days worked: ${totalDaysWorked}`);
     console.log(`Total wages for the month: ${totalWages}`);
 }
+
+//total wages calculation
+calculateWages(20);
